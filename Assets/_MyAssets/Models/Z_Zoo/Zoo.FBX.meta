@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: 7b1a31455f342dd4786d0c87210b13ed
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bip001
+    100002: Bip001 Footsteps
+    100004: Bip001 Head
+    100006: Bip001 HeadNub
+    100008: Bip001 L Calf
+    100010: Bip001 L Clavicle
+    100012: Bip001 L Finger0
+    100014: Bip001 L Finger0Nub
+    100016: Bip001 L Foot
+    100018: Bip001 L Forearm
+    100020: Bip001 L Hand
+    100022: Bip001 L Thigh
+    100024: Bip001 L Toe0
+    100026: Bip001 L Toe01
+    100028: Bip001 L Toe02
+    100030: Bip001 L Toe0Nub
+    100032: Bip001 L UpperArm
+    100034: Bip001 Neck
+    100036: Bip001 Pelvis
+    100038: Bip001 R Calf
+    100040: Bip001 R Clavicle
+    100042: Bip001 R Finger0
+    100044: Bip001 R Finger0Nub
+    100046: Bip001 R Foot
+    100048: Bip001 R Forearm
+    100050: Bip001 R Hand
+    100052: Bip001 R Thigh
+    100054: Bip001 R Toe0
+    100056: Bip001 R Toe01
+    100058: Bip001 R Toe02
+    100060: Bip001 R Toe0Nub
+    100062: Bip001 R UpperArm
+    100064: Bip001 Spine
+    100066: Bip001 Spine1
+    100068: Bip001 Spine2
+    100070: Bip001 Spine3
+    100072: Bip001 Tail
+    100074: Bip001 Tail1
+    100076: Bip001 Tail2
+    100078: Bip001 Tail3
+    100080: Bip001 Tail4
+    100082: Bip001 Tail5
+    100084: Bip001 Tail6
+    100086: Bip001 TailNub
+    100088: Bip001 Xtra01
+    100090: Bip001 Xtra0102
+    100092: Bip001 Xtra0103
+    100094: Bip001 Xtra0104
+    100096: Bip001 Xtra01Nub
+    100098: Box001
+    100100: Cylinder001
+    100102: Cylinder002
+    100104: Cylinder003
+    100106: Cylinder004
+    100108: Cylinder005
+    100110: elephant
+    100112: Hedra001
+    100114: Hedra002
+    100116: Hedra003
+    100118: Hedra004
+    100120: Line001
+    100122: LION_
+    100124: LION_ Head
+    100126: LION_ L Calf
+    100128: LION_ L Clavicle
+    100130: LION_ L Finger0
+    100132: LION_ L Foot
+    100134: LION_ L Forearm
+    100136: LION_ L Hand
+    100138: LION_ L HorseLink
+    100140: LION_ L Thigh
+    100142: LION_ L Toe0
+    100144: LION_ L UpperArm
+    100146: LION_ Neck
+    100148: LION_ Neck1
+    100150: LION_ Pelvis
+    100152: LION_ Queue de cheval 1
+    100154: LION_ R Calf
+    100156: LION_ R Clavicle
+    100158: LION_ R Finger0
+    100160: LION_ R Foot
+    100162: LION_ R Forearm
+    100164: LION_ R Hand
+    100166: LION_ R HorseLink
+    100168: LION_ R Thigh
+    100170: LION_ R Toe0
+    100172: LION_ R UpperArm
+    100174: LION_ Spine
+    100176: LION_ Spine1
+    100178: LION_ Spine2
+    100180: LION_ Tail
+    100182: LION_ Tail1
+    100184: LION_ Tail2
+    100186: LION_ Tail3
+    100188: LION_ Tail4
+    100190: LION_ Tail5
+    100192: LION_ Tail6
+    100194: LION_ Tail7
+    100196: LION_ Tail8
+    100198: Railing001
+    100200: Railing002
+    100202: Railing003
+    100204: root
+    100206: SK_Lion_LOD0
+    100208: Sphere001
+    100210: Text001
+    100212: //RootNode
+    400000: Bip001
+    400002: Bip001 Footsteps
+    400004: Bip001 Head
+    400006: Bip001 HeadNub
+    400008: Bip001 L Calf
+    400010: Bip001 L Clavicle
+    400012: Bip001 L Finger0
+    400014: Bip001 L Finger0Nub
+    400016: Bip001 L Foot
+    400018: Bip001 L Forearm
+    400020: Bip001 L Hand
+    400022: Bip001 L Thigh
+    400024: Bip001 L Toe0
+    400026: Bip001 L Toe01
+    400028: Bip001 L Toe02
+    400030: Bip001 L Toe0Nub
+    400032: Bip001 L UpperArm
+    400034: Bip001 Neck
+    400036: Bip001 Pelvis
+    400038: Bip001 R Calf
+    400040: Bip001 R Clavicle
+    400042: Bip001 R Finger0
+    400044: Bip001 R Finger0Nub
+    400046: Bip001 R Foot
+    400048: Bip001 R Forearm
+    400050: Bip001 R Hand
+    400052: Bip001 R Thigh
+    400054: Bip001 R Toe0
+    400056: Bip001 R Toe01
+    400058: Bip001 R Toe02
+    400060: Bip001 R Toe0Nub
+    400062: Bip001 R UpperArm
+    400064: Bip001 Spine
+    400066: Bip001 Spine1
+    400068: Bip001 Spine2
+    400070: Bip001 Spine3
+    400072: Bip001 Tail
+    400074: Bip001 Tail1
+    400076: Bip001 Tail2
+    400078: Bip001 Tail3
+    400080: Bip001 Tail4
+    400082: Bip001 Tail5
+    400084: Bip001 Tail6
+    400086: Bip001 TailNub
+    400088: Bip001 Xtra01
+    400090: Bip001 Xtra0102
+    400092: Bip001 Xtra0103
+    400094: Bip001 Xtra0104
+    400096: Bip001 Xtra01Nub
+    400098: Box001
+    400100: Cylinder001
+    400102: Cylinder002
+    400104: Cylinder003
+    400106: Cylinder004
+    400108: Cylinder005
+    400110: elephant
+    400112: Hedra001
+    400114: Hedra002
+    400116: Hedra003
+    400118: Hedra004
+    400120: Line001
+    400122: LION_
+    400124: LION_ Head
+    400126: LION_ L Calf
+    400128: LION_ L Clavicle
+    400130: LION_ L Finger0
+    400132: LION_ L Foot
+    400134: LION_ L Forearm
+    400136: LION_ L Hand
+    400138: LION_ L HorseLink
+    400140: LION_ L Thigh
+    400142: LION_ L Toe0
+    400144: LION_ L UpperArm
+    400146: LION_ Neck
+    400148: LION_ Neck1
+    400150: LION_ Pelvis
+    400152: LION_ Queue de cheval 1
+    400154: LION_ R Calf
+    400156: LION_ R Clavicle
+    400158: LION_ R Finger0
+    400160: LION_ R Foot
+    400162: LION_ R Forearm
+    400164: LION_ R Hand
+    400166: LION_ R HorseLink
+    400168: LION_ R Thigh
+    400170: LION_ R Toe0
+    400172: LION_ R UpperArm
+    400174: LION_ Spine
+    400176: LION_ Spine1
+    400178: LION_ Spine2
+    400180: LION_ Tail
+    400182: LION_ Tail1
+    400184: LION_ Tail2
+    400186: LION_ Tail3
+    400188: LION_ Tail4
+    400190: LION_ Tail5
+    400192: LION_ Tail6
+    400194: LION_ Tail7
+    400196: LION_ Tail8
+    400198: Railing001
+    400200: Railing002
+    400202: Railing003
+    400204: root
+    400206: SK_Lion_LOD0
+    400208: Sphere001
+    400210: Text001
+    400212: //RootNode
+    2100000: 'Material #3'
+    2100002: 'Material #2'
+    2100004: 'Material #4'
+    2100006: lion
+    2100008: 1
+    2100010: zoo
+    2100012: 'Material #18'
+    2100014: 2
+    2100016: 'Material #19'
+    2100018: 'Material #20'
+    2100020: tree 2
+    2100022: tree
+    2300000: Box001
+    2300002: Cylinder001
+    2300004: Cylinder002
+    2300006: Cylinder003
+    2300008: Cylinder004
+    2300010: Cylinder005
+    2300012: Hedra001
+    2300014: Hedra002
+    2300016: Hedra003
+    2300018: Hedra004
+    2300020: Line001
+    2300022: Railing001
+    2300024: Railing002
+    2300026: Railing003
+    2300028: Sphere001
+    2300030: Text001
+    3300000: Box001
+    3300002: Cylinder001
+    3300004: Cylinder002
+    3300006: Cylinder003
+    3300008: Cylinder004
+    3300010: Cylinder005
+    3300012: Hedra001
+    3300014: Hedra002
+    3300016: Hedra003
+    3300018: Hedra004
+    3300020: Line001
+    3300022: Railing001
+    3300024: Railing002
+    3300026: Railing003
+    3300028: Sphere001
+    3300030: Text001
+    4300000: elephant
+    4300002: Sphere001
+    4300004: Line001
+    4300006: SK_Lion_LOD0
+    4300008: Railing001
+    4300010: Railing002
+    4300012: Railing003
+    4300014: Text001
+    4300016: Cylinder001
+    4300018: Cylinder002
+    4300020: Cylinder003
+    4300022: Box001
+    4300024: Hedra001
+    4300026: Cylinder004
+    4300028: Hedra002
+    4300030: Cylinder005
+    4300032: Hedra003
+    4300034: Hedra004
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: elephant
+    13700002: SK_Lion_LOD0
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

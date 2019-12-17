@@ -1,0 +1,288 @@
+fileFormatVersion: 2
+guid: 92394ec976c73b04a8f42214c463dcea
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: 360Mascot_Body
+    100002: 360Mascot_Cape
+    100004: 360Mascot_Character_Glasses
+    100006: 360Mascot_Gold
+    100008: 360Mascot_Hair
+    100010: 360Mascot_L_Eye
+    100012: 360Mascot_L_Eyebrow
+    100014: 360Mascot_L_Slipper
+    100016: 360Mascot_Longgyi
+    100018: 360Mascot_R_Eye
+    100020: 360Mascot_R_Eyebrow
+    100022: 360Mascot_R_Slipper
+    100024: 360Mascot_Shirt
+    100026: 360Mascot_Toy_00
+    100028: 360Mascot_Toy_01
+    100030: 360Mascot_Toy_02
+    100032: 360Mascot_Toy_03
+    100034: 360Mascot_Toy_04
+    100036: 360Mascot_Toy_05
+    100038: 360Mascot_Toy_06
+    100040: 360Mascot_Toy_07
+    100042: 360Mascot_Toy_08
+    100044: 360Mascot_Toy_09
+    100046: 360Mascot_Toy_10
+    100048: 360Mascot_UpTooth
+    100050: 360Mascot_UpTooth001
+    100052: //RootNode
+    100054: Mascot_Toy_Circle001
+    100056: Mascot_Toy_Circle002
+    100058: Mascot_Toy_Circle003
+    100060: Mascot_Toy_Circle004
+    400000: 360Mascot_Body
+    400002: 360Mascot_Cape
+    400004: 360Mascot_Character_Glasses
+    400006: 360Mascot_Gold
+    400008: 360Mascot_Hair
+    400010: 360Mascot_L_Eye
+    400012: 360Mascot_L_Eyebrow
+    400014: 360Mascot_L_Slipper
+    400016: 360Mascot_Longgyi
+    400018: 360Mascot_R_Eye
+    400020: 360Mascot_R_Eyebrow
+    400022: 360Mascot_R_Slipper
+    400024: 360Mascot_Shirt
+    400026: 360Mascot_Toy_00
+    400028: 360Mascot_Toy_01
+    400030: 360Mascot_Toy_02
+    400032: 360Mascot_Toy_03
+    400034: 360Mascot_Toy_04
+    400036: 360Mascot_Toy_05
+    400038: 360Mascot_Toy_06
+    400040: 360Mascot_Toy_07
+    400042: 360Mascot_Toy_08
+    400044: 360Mascot_Toy_09
+    400046: 360Mascot_Toy_10
+    400048: 360Mascot_UpTooth
+    400050: 360Mascot_UpTooth001
+    400052: //RootNode
+    400054: Mascot_Toy_Circle001
+    400056: Mascot_Toy_Circle002
+    400058: Mascot_Toy_Circle003
+    400060: Mascot_Toy_Circle004
+    2300000: 360Mascot_Body
+    2300002: 360Mascot_Cape
+    2300004: 360Mascot_Character_Glasses
+    2300006: 360Mascot_Gold
+    2300008: 360Mascot_Hair
+    2300010: 360Mascot_L_Eye
+    2300012: 360Mascot_L_Eyebrow
+    2300014: 360Mascot_L_Slipper
+    2300016: 360Mascot_Longgyi
+    2300018: 360Mascot_R_Eye
+    2300020: 360Mascot_R_Eyebrow
+    2300022: 360Mascot_R_Slipper
+    2300024: 360Mascot_Shirt
+    2300026: 360Mascot_Toy_00
+    2300028: 360Mascot_Toy_02
+    2300030: 360Mascot_Toy_03
+    2300032: 360Mascot_Toy_04
+    2300034: 360Mascot_Toy_05
+    2300036: 360Mascot_Toy_06
+    2300038: 360Mascot_Toy_07
+    2300040: 360Mascot_Toy_08
+    2300042: 360Mascot_Toy_09
+    2300044: 360Mascot_Toy_10
+    2300046: 360Mascot_UpTooth
+    2300048: 360Mascot_UpTooth001
+    3300000: 360Mascot_Body
+    3300002: 360Mascot_Cape
+    3300004: 360Mascot_Character_Glasses
+    3300006: 360Mascot_Gold
+    3300008: 360Mascot_Hair
+    3300010: 360Mascot_L_Eye
+    3300012: 360Mascot_L_Eyebrow
+    3300014: 360Mascot_L_Slipper
+    3300016: 360Mascot_Longgyi
+    3300018: 360Mascot_R_Eye
+    3300020: 360Mascot_R_Eyebrow
+    3300022: 360Mascot_R_Slipper
+    3300024: 360Mascot_Shirt
+    3300026: 360Mascot_Toy_00
+    3300028: 360Mascot_Toy_02
+    3300030: 360Mascot_Toy_03
+    3300032: 360Mascot_Toy_04
+    3300034: 360Mascot_Toy_05
+    3300036: 360Mascot_Toy_06
+    3300038: 360Mascot_Toy_07
+    3300040: 360Mascot_Toy_08
+    3300042: 360Mascot_Toy_09
+    3300044: 360Mascot_Toy_10
+    3300046: 360Mascot_UpTooth
+    3300048: 360Mascot_UpTooth001
+    4300000: 360Mascot_Toy_02
+    4300002: 360Mascot_Toy_03
+    4300004: 360Mascot_Toy_04
+    4300006: 360Mascot_Toy_00
+    4300008: 360Mascot_Toy_05
+    4300010: 360Mascot_Toy_06
+    4300012: 360Mascot_Toy_07
+    4300014: 360Mascot_Toy_08
+    4300016: 360Mascot_Toy_09
+    4300018: 360Mascot_Toy_10
+    4300020: 360Mascot_Longgyi
+    4300022: 360Mascot_Shirt
+    4300024: 360Mascot_Body
+    4300026: 360Mascot_UpTooth001
+    4300028: 360Mascot_R_Eyebrow
+    4300030: 360Mascot_L_Eyebrow
+    4300032: 360Mascot_R_Eye
+    4300034: 360Mascot_L_Eye
+    4300036: 360Mascot_Hair
+    4300038: 360Mascot_L_Slipper
+    4300040: 360Mascot_R_Slipper
+    4300042: 360Mascot_Cape
+    4300044: 360Mascot_Gold
+    4300046: 360Mascot_UpTooth
+    4300048: 360Mascot_Character_Glasses
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 20 - Default
+    second: {fileID: 2100000, guid: 3cf96ef57b7406c42992405b2c7d1ace, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 3
+    second: {fileID: 2100000, guid: 4514626a29c1d1e499582ba03062c50f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body
+    second: {fileID: 2100000, guid: 86236b1bfb41c1d4d80ef76c33410e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: d9271c0a4aa39f54f93e26ed044e6d0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye2
+    second: {fileID: 2100000, guid: 6b180fc7a2b5ff44ba3f45d7220e0899, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gold
+    second: {fileID: 2100000, guid: 4678074fb63964a4e9bbaac31ed0991a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 8e93eaf7ba7a0284db878ec558d882cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hair
+    second: {fileID: 2100000, guid: 0e32ab49aaf536c4ba939a7af117da62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Longgyi
+    second: {fileID: 2100000, guid: d5a0f05283d2443428b24f4a2c853905, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shirt
+    second: {fileID: 2100000, guid: 010455f90ea32884cb806711562e5697, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Toy_Cover
+    second: {fileID: 2100000, guid: 17f0a81b470f3ba45a81f224684a2da8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: shirt_Yellow
+    second: {fileID: 2100000, guid: 58fec5d1c62bf3c49b0159cc262d74f9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

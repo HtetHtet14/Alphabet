@@ -1,0 +1,79 @@
+It is an ant.
+This is an apple.
+This is a ball.
+This is a boy.
+It is cake.
+This is a cup.
+It is a dog.
+This is a duster.
+It is an ear.
+This is an eye.
+It is a fan.
+This is a fish.
+This is a girl.
+It is a goat.
+This is a hand.
+It is a hat.
+This is ice.
+It is an iron.
+It is a jacket.
+This is jam.
+It is a key.
+This is a kite.
+It is a lamp.
+This is a lock.
+It is a mat.
+This is a monkey.
+It is a nail.
+This is a nest.
+It is an orange.
+This is an owl.
+It is a pencil.
+This is a pin.
+It is a quail.
+This is a queen.
+It is a rabbit.
+This is a ruler.
+It is a snake.
+This is the sun.
+It is a table.
+This is a tree.
+It is an umbrella.
+This is an uncle.
+This is a vase.
+It is a violin.
+This is a wall.
+This is water.
+It is a xylophone.
+This is a yacht.
+It is a yolk.
+This is a zebra.
+It is a zip.
+This is a bag.
+It is a banana.
+This is a bed.
+It is a bird.
+It is a book.
+This is bread.
+This is a cat.
+This is a chair.
+This is a chicken.
+It is a cock.
+This is a coconut.
+It is coffee.
+This is a cow.
+It is a desk.
+It is an egg.
+These are fruits.
+It is a guava.
+This is juice.
+This is a lime.
+It is a mango.
+This is milk.
+This is a papaya.
+It is a pineapple.
+This is a plate.
+This is rice.
+It is a spoon.
+This is water.
+This is a watermelon. 

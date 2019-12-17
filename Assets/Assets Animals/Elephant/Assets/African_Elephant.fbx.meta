@@ -1,0 +1,1378 @@
+fileFormatVersion: 2
+guid: 256337b69d480ae4390dc59d663945e7
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm.L
+    100002: arm.R
+    100004: Armature
+    100006: ear.L
+    100008: ear.R
+    100010: ear02.L
+    100012: ear02.L_end
+    100014: ear02.R
+    100016: ear02.R_end
+    100018: Elephant
+    100020: //RootNode
+    100022: Father
+    100024: foot.L
+    100026: foot.L_end
+    100028: foot.R
+    100030: foot.R_end
+    100032: head
+    100034: leg.L
+    100036: leg.R
+    100038: Master
+    100040: mouth
+    100042: mouth_end
+    100044: neck
+    100046: paw.L
+    100048: paw.L_end
+    100050: paw.R
+    100052: paw.R_end
+    100054: pelvis.L
+    100056: pelvis.R
+    100058: shoulder.L
+    100060: shoulder.R
+    100062: shoulder2.L
+    100064: shoulder2.R
+    100066: snout01
+    100068: snout02
+    100070: snout03
+    100072: snout04
+    100074: snout05
+    100076: snout06
+    100078: snout06_end
+    100080: spine01
+    100082: spine_02
+    100084: tail
+    100086: tail2
+    100088: tail3
+    100090: tail4
+    100092: tail4_end
+    100094: thigh.L
+    100096: thigh.R
+    100098: arm_L
+    100100: arm_R
+    100102: ear02_L
+    100104: ear02_R
+    100106: ear_L
+    100108: ear_R
+    100110: foot_L
+    100112: foot_R
+    100114: leg_L
+    100116: leg_R
+    100118: paw_L
+    100120: paw_R
+    100122: pelvis_L
+    100124: pelvis_R
+    100126: shoulder2_L
+    100128: shoulder2_R
+    100130: shoulder_L
+    100132: shoulder_R
+    100134: thigh_L
+    100136: thigh_R
+    400000: arm.L
+    400002: arm.R
+    400004: Armature
+    400006: ear.L
+    400008: ear.R
+    400010: ear02.L
+    400012: ear02.L_end
+    400014: ear02.R
+    400016: ear02.R_end
+    400018: Elephant
+    400020: //RootNode
+    400022: Father
+    400024: foot.L
+    400026: foot.L_end
+    400028: foot.R
+    400030: foot.R_end
+    400032: head
+    400034: leg.L
+    400036: leg.R
+    400038: Master
+    400040: mouth
+    400042: mouth_end
+    400044: neck
+    400046: paw.L
+    400048: paw.L_end
+    400050: paw.R
+    400052: paw.R_end
+    400054: pelvis.L
+    400056: pelvis.R
+    400058: shoulder.L
+    400060: shoulder.R
+    400062: shoulder2.L
+    400064: shoulder2.R
+    400066: snout01
+    400068: snout02
+    400070: snout03
+    400072: snout04
+    400074: snout05
+    400076: snout06
+    400078: snout06_end
+    400080: spine01
+    400082: spine_02
+    400084: tail
+    400086: tail2
+    400088: tail3
+    400090: tail4
+    400092: tail4_end
+    400094: thigh.L
+    400096: thigh.R
+    400098: arm_L
+    400100: arm_R
+    400102: ear02_L
+    400104: ear02_R
+    400106: ear_L
+    400108: ear_R
+    400110: foot_L
+    400112: foot_R
+    400114: leg_L
+    400116: leg_R
+    400118: paw_L
+    400120: paw_R
+    400122: pelvis_L
+    400124: pelvis_R
+    400126: shoulder2_L
+    400128: shoulder2_R
+    400130: shoulder_L
+    400132: shoulder_R
+    400134: thigh_L
+    400136: thigh_R
+    4300000: Elephant
+    7400000: ArmatureAction
+    7400002: Attack
+    7400004: Die
+    7400006: Eat
+    7400008: Rise
+    7400010: Idle
+    7400012: Run
+    7400014: Stop
+    7400016: Walk
+    7400018: Walkcyle_elephant
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Elephant
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Elephant
+    second: {fileID: 2100000, guid: 76d36de0f19f12144992fe145d6d7389, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Attack
+      takeName: Armature|Attack
+      firstFrame: 0
+      lastFrame: 30
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Die
+      takeName: Armature|Die
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Eat
+      takeName: Armature|Eat
+      firstFrame: 0
+      lastFrame: 170
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Rise
+      takeName: Armature|Get_up
+      firstFrame: 0
+      lastFrame: 111
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: Armature|Idle
+      firstFrame: 0
+      lastFrame: 150
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: Armature|Run
+      firstFrame: 0
+      lastFrame: 20
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Stop
+      takeName: Armature|Stop
+      firstFrame: 0
+      lastFrame: 75
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walk
+      takeName: Armature|Walk
+      firstFrame: 0
+      lastFrame: 50
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Walkcyle_elephant
+      takeName: Armature|Walkcyle_elephant
+      firstFrame: 0
+      lastFrame: 721
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Father
+        weight: 1
+      - path: Armature/Father/Master
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L
+        weight: 1
+      - path: Armature/Father/Master/pelvis.L/thigh.L/leg.L/foot.L/foot.L_end
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R
+        weight: 1
+      - path: Armature/Father/Master/pelvis.R/thigh.R/leg.R/foot.R/foot.R_end
+        weight: 1
+      - path: Armature/Father/Master/spine01
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4
+        weight: 1
+      - path: Armature/Father/Master/spine01/tail/tail2/tail3/tail4/tail4_end
+        weight: 1
+      - path: Armature/Father/spine_02
+        weight: 1
+      - path: Armature/Father/spine_02/neck
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.L/ear02.L/ear02.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/ear.R/ear02.R/ear02.R_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/mouth/mouth_end
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06
+        weight: 1
+      - path: Armature/Father/spine_02/neck/head/snout01/snout02/snout03/snout04/snout05/snout06/snout06_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.L/shoulder.L/arm.L/paw.L/paw.L_end
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R
+        weight: 1
+      - path: Armature/Father/spine_02/shoulder2.R/shoulder.R/arm.R/paw.R/paw.R_end
+        weight: 1
+      - path: Elephant
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

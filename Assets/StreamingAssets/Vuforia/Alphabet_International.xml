@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Uniform" size="2.000000 2.996667" />
+    <ImageTarget name="Queen" size="2.000000 2.996667" />
+    <ImageTarget name="Fan" size="2.000000 2.996667" />
+    <ImageTarget name="Duster" size="2.000000 3.000000" />
+    <ImageTarget name="Dolphin" size="2.000000 3.000000" />
+    <ImageTarget name="Boy" size="2.000000 3.000000" />
+    <ImageTarget name="King" size="2.000000 2.996667" />
+    <ImageTarget name="Fish" size="2.000000 2.996667" />
+    <ImageTarget name="Sun" size="2.000000 2.996667" />
+    <ImageTarget name="Monkey" size="2.000000 2.996667" />
+    <ImageTarget name="Lamp" size="2.000000 2.996667" />
+    <ImageTarget name="Hat" size="2.000000 2.996667" />
+    <ImageTarget name="Yolk" size="2.000000 3.000000" />
+    <ImageTarget name="Yacht" size="2.000000 3.000000" />
+    <ImageTarget name="Xylophone" size="2.000000 3.000000" />
+    <ImageTarget name="X-ray" size="2.000000 3.000000" />
+    <ImageTarget name="Tiger" size="2.000000 2.996667" />
+    <ImageTarget name="Rabbit" size="2.000000 2.996667" />
+    <ImageTarget name="OWL" size="2.000000 2.996667" />
+    <ImageTarget name="Necklace" size="2.000000 2.996667" />
+    <ImageTarget name="Zoo" size="2.000000 2.996667" />
+    <ImageTarget name="Zebra" size="2.000000 2.996667" />
+    <ImageTarget name="Lock" size="2.000000 2.996667" />
+    <ImageTarget name="Kite" size="2.000000 2.996667" />
+    <ImageTarget name="Jam" size="2.000000 2.996667" />
+    <ImageTarget name="Iron" size="2.000000 2.996667" />
+    <ImageTarget name="Horse" size="2.000000 2.996667" />
+    <ImageTarget name="Girl" size="2.000000 3.000000" />
+    <ImageTarget name="Earth" size="2.000000 3.000000" />
+    <ImageTarget name="Cow" size="2.000000 3.000000" />
+    <ImageTarget name="Bed" size="2.000000 3.000000" />
+    <ImageTarget name="Orange" size="2.000000 2.996667" />
+    <ImageTarget name="Whale" size="2.000000 2.996667" />
+    <ImageTarget name="Ruler" size="2.000000 2.996667" />
+    <ImageTarget name="Pineapple" size="2.000000 2.996667" />
+    <ImageTarget name="Mango" size="2.000000 3.000000" />
+    <ImageTarget name="Lion" size="2.000000 3.000000" />
+    <ImageTarget name="Guava" size="2.000000 2.996667" />
+    <ImageTarget name="Goat" size="2.000000 2.996667" />
+    <ImageTarget name="Globe" size="2.000000 2.996667" />
+    <ImageTarget name="Dog" size="2.000000 3.000000" />
+    <ImageTarget name="Ice" size="2.000000 2.996667" />
+    <ImageTarget name="Table" size="2.000000 2.996667" />
+    <ImageTarget name="Watermelon" size="2.000000 2.996667" />
+    <ImageTarget name="Violin" size="2.000000 2.996667" />
+    <ImageTarget name="Jacket" size="2.000000 2.996667" />
+    <ImageTarget name="Duck" size="2.000000 2.996667" />
+    <ImageTarget name="Bird" size="2.000000 3.000000" />
+    <ImageTarget name="Ball" size="2.000000 3.000000" />
+    <ImageTarget name="Ant" size="2.000000 3.000000" />
+    <ImageTarget name="Vase" size="2.000000 3.000000" />
+    <ImageTarget name="Umbrella" size="2.000000 3.000000" />
+    <ImageTarget name="Snake" size="2.000000 3.000000" />
+    <ImageTarget name="Quail" size="2.000000 3.000000" />
+    <ImageTarget name="Pig" size="2.000000 3.000000" />
+    <ImageTarget name="Nest" size="2.000000 3.000000" />
+    <ImageTarget name="Lime" size="2.000000 3.000000" />
+    <ImageTarget name="Elephant" size="2.000000 3.000000" />
+    <ImageTarget name="Cat" size="2.000000 3.000000" />
+    <ImageTarget name="Apple" size="2.000000 3.000000" />
+  </Tracking>
+</QCARConfig>

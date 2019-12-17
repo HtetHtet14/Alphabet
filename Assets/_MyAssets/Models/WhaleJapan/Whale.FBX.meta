@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: ef210a3ae34b83146a18ec946ed5db77
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: Sphere001
+    100004: tounge
+    100006: //RootNode
+    100008: Whale_Bone_08
+    100010: Whale_Bone_09
+    100012: Whale_Bone_10
+    100014: Whale_Bone_11
+    100016: Whale_Bone_00
+    100018: Whale_Bone_01
+    100020: Whale_Bone_02
+    100022: Whale_Bone_03
+    100024: Whale_Bone_04
+    100026: Whale_Bone_05
+    100028: Whale_Bone_06
+    100030: Whale_Bone_07
+    100032: Whale_Bone_12
+    100034: Whale_Bone_13
+    100036: Whale_Bone_14
+    100038: Whale_Bone_15
+    100040: Whale_Bone_16
+    100042: Whale_Bone_17
+    100044: Whale_Bone_18
+    100046: Whale_Bone_19
+    100048: Whale_Ctr_07
+    100050: Whale_Ctr_15
+    100052: Whale_Ctr_Main
+    400000: Body
+    400002: Sphere001
+    400004: tounge
+    400006: //RootNode
+    400008: Whale_Bone_08
+    400010: Whale_Bone_09
+    400012: Whale_Bone_10
+    400014: Whale_Bone_11
+    400016: Whale_Bone_00
+    400018: Whale_Bone_01
+    400020: Whale_Bone_02
+    400022: Whale_Bone_03
+    400024: Whale_Bone_04
+    400026: Whale_Bone_05
+    400028: Whale_Bone_06
+    400030: Whale_Bone_07
+    400032: Whale_Bone_12
+    400034: Whale_Bone_13
+    400036: Whale_Bone_14
+    400038: Whale_Bone_15
+    400040: Whale_Bone_16
+    400042: Whale_Bone_17
+    400044: Whale_Bone_18
+    400046: Whale_Bone_19
+    400048: Whale_Ctr_07
+    400050: Whale_Ctr_15
+    400052: Whale_Ctr_Main
+    2100000: Mat_Whale
+    2100002: 'Material #29'
+    2100004: Eye
+    2300000: Sphere001
+    2300002: tounge
+    3300000: Sphere001
+    3300002: tounge
+    4300000: Body
+    4300002: tounge
+    4300004: Sphere001
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Body
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Eye
+    second: {fileID: 2100000, guid: 197768245f2615c4ebeb432127312486, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat_Whale
+    second: {fileID: 2100000, guid: 6f41edbf661627d46b501d9c755063a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #29'
+    second: {fileID: 2100000, guid: ff62b8bb91104b844956012ee939f403, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.0254
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

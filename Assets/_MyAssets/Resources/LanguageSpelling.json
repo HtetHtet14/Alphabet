@@ -1,0 +1,604 @@
+{
+    "spellingList":[
+        {
+            "English":"ant",
+            "Vietnam":"con kiến",
+            "Indonesian":"semut",
+            "Philippines":"langgam",
+            "Chinese":"蚁",
+            "Korean":"개미",
+            "Japanese":"あり",
+            "Myanmar":"ပုရြက္ဆိတ္"
+        },
+        {
+            "English":"apple",
+            "Vietnam":"quả táo",
+            "Indonesian":"apel",
+            "Philippines":"mansanas",
+            "Chinese":"苹果",
+            "Korean":"사과",
+            "Japanese":"りんご",
+            "Myanmar":"ပန္းသီး"
+        },
+        {
+            "English":"ball",
+            "Vietnam":"quả bóng",
+            "Indonesian":"bola",
+            "Philippines":"bola",
+            "Chinese":"球",
+            "Korean":"공",
+            "Japanese":"ぼーる",
+            "Myanmar":"ေဘာလံုး"
+        },
+        {
+            "English":"bed",
+            "Vietnam":"cái giường",
+            "Indonesian":"tempat tidur",
+            "Philippines":"kama",
+            "Chinese":"床",
+            "Korean":"침대",
+            "Japanese":"べっど",
+            "Myanmar":"ခုတင္"
+        },
+        {
+            "English":"bird",
+            "Vietnam":"con chim",
+            "Indonesian":"burung ",
+            "Philippines":"ibon",
+            "Chinese":"鸟",
+            "Korean":"새",
+            "Japanese":"とり",
+            "Myanmar":"ငွက္"
+        },
+        {
+            "English":"boy",
+            "Vietnam":"cậu bé",
+            "Indonesian":"anak laki-laki",
+            "Philippines":"batang lalaki",
+            "Chinese":"男孩子",
+            "Korean":"소년",
+            "Japanese":"おとこのこ",
+            "Myanmar":"ေကာင္ေလး"
+        },
+        {
+            "English":"cat",
+            "Vietnam":"con mèo",
+            "Indonesian":"kucing",
+            "Philippines":"pusa",
+            "Chinese":"猫",
+            "Korean":"고양이",
+            "Japanese":"ねこ",
+            "Myanmar":"ေၾကာင္"
+        },
+        {
+            "English":"cow",
+            "Vietnam":"con bò",
+            "Indonesian":"sapi",
+            "Philippines":"baka",
+            "Chinese":"奶牛",
+            "Korean":"소",
+            "Japanese":"うし",
+            "Myanmar":"ႏြားမ"
+        },
+        {
+            "English":"dog",
+            "Vietnam":"con chó",
+            "Indonesian":"anjing",
+            "Philippines":"aso",
+            "Chinese":"犬\n",
+            "Korean":"개",
+            "Japanese":"いぬ",
+            "Myanmar":"ေခြး"
+        },
+        {
+            "English":"dolphin",
+            "Vietnam":"cá heo",
+            "Indonesian":"lumba-lumba",
+            "Philippines":"lumba-lumba",
+            "Chinese":"海豚",
+            "Korean":"돌고래",
+            "Japanese":"いるか",
+            "Myanmar":"လင္းပိုင္"
+        },
+        {
+            "English":"duck",
+            "Vietnam":"con vịt",
+            "Indonesian":"bebek",
+            "Philippines":"bibi",
+            "Chinese":"鸭",
+            "Korean":"오리",
+            "Japanese":"あひる",
+            "Myanmar":"ဘဲ"
+        },
+        {
+            "English":"duster",
+            "Vietnam":"chổi lau",
+            "Indonesian":"kemoceng",
+            "Philippines":"pang-alis ng alikabok",
+            "Chinese":"掸子",
+            "Korean":"걸레 ",
+            "Japanese":"はたき",
+            "Myanmar":"ဖုန္သုတ္အ၀တ္"
+        },
+        {
+            "English":"earth",
+            "Vietnam":"trái đất",
+            "Indonesian":"bumi",
+            "Philippines":"mundo",
+            "Chinese":"地球",
+            "Korean":"지구",
+            "Japanese":"ちきゅう",
+            "Myanmar":"ကမာၻျဂိဳဟ္"
+        },
+        {
+            "English":"elephant",
+            "Vietnam":"con voi",
+            "Indonesian":"gajah",
+            "Philippines":"elepante",
+            "Chinese":"象",
+            "Korean":"코끼리",
+            "Japanese":"ぞう",
+            "Myanmar":"ဆင္"
+        },
+        {
+            "English":"fan",
+            "Vietnam":"cái quạt",
+            "Indonesian":"kipas angin",
+            "Philippines":"paypay",
+            "Chinese":"风扇",
+            "Korean":"선풍기",
+            "Japanese":"せんぷうき\n",
+            "Myanmar":"ပန္ကာ"
+        },
+        {
+            "English":"fish",
+            "Vietnam":"con cá",
+            "Indonesian":"ikan",
+            "Philippines":"isda",
+            "Chinese":"鱼",
+            "Korean":"물고기",
+            "Japanese":"さかな",
+            "Myanmar":"ငါး"
+        },
+        {
+            "English":"girl",
+            "Vietnam":"cô bé",
+            "Indonesian":"anak perempuan",
+            "Philippines":"batang babae",
+            "Chinese":"女孩",
+            "Korean":"소녀",
+            "Japanese":"おんなのこ",
+            "Myanmar":"မိန္းကေလး"
+        },
+        {
+            "English":"globe",
+            "Vietnam":"quả địa cầu",
+            "Indonesian":"bola dunia",
+            "Philippines":"globo",
+            "Chinese":"地球仪",
+            "Korean":"지구본",
+            "Japanese":"ちきゅうぎ",
+            "Myanmar":"ကမၻာလုံး"
+        },
+        {
+            "English":"goat",
+            "Vietnam":"con dê",
+            "Indonesian":"kambing",
+            "Philippines":"kambing",
+            "Chinese":"山羊",
+            "Korean":"염소",
+            "Japanese":"やぎ",
+            "Myanmar":"ဆိတ္"
+        },
+        {
+            "English":"guava",
+            "Vietnam":"quả ổi",
+            "Indonesian":"jambu biji",
+            "Philippines":"bayabas",
+            "Chinese":"番石榴",
+            "Korean":"구아바",
+            "Japanese":"ぐぁば",
+            "Myanmar":"မာလကာသီး"
+        },
+        {
+            "English":"hat",
+            "Vietnam":"cái mũ",
+            "Indonesian":"topi",
+            "Philippines":"sombrero",
+            "Chinese":"帽子",
+            "Korean":"모자",
+            "Japanese":"ぼうし",
+            "Myanmar":"ဦးထုပ္"
+        },
+        {
+            "English":"horse",
+            "Vietnam":"con ngựa",
+            "Indonesian":"kuda",
+            "Philippines":"kabayo",
+            "Chinese":"马",
+            "Korean":"말",
+            "Japanese":"うま",
+            "Myanmar":"ျမင္း"
+        },
+        {
+            "English":"ice",
+            "Vietnam":"nước đá",
+            "Indonesian":"es",
+            "Philippines":"yelo",
+            "Chinese":"冰",
+            "Korean":"얼음",
+            "Japanese":"こおり",
+            "Myanmar":"ေရခဲ"
+        },
+        {
+            "English":"iron",
+            "Vietnam":"bàn là",
+            "Indonesian":"setrika",
+            "Philippines":"plantsa",
+            "Chinese":"熨斗",
+            "Korean":"다리미 ",
+            "Japanese":"あいろん",
+            "Myanmar":"မီးပူ"
+        },
+        {
+            "English":"jacket",
+            "Vietnam":"áo khoác",
+            "Indonesian":"jaket",
+            "Philippines":"dyaket",
+            "Chinese":"夹克",
+            "Korean":"재킷",
+            "Japanese":"じゃけっと",
+            "Myanmar":"ဂ်ာကင္"
+        },
+        {
+            "English":"jam",
+            "Vietnam":"mứt",
+            "Indonesian":"selai",
+            "Philippines":"jam",
+            "Chinese":"果酱",
+            "Korean":"잼",
+            "Japanese":"じゃむ",
+            "Myanmar":"ယို"
+        },
+        {
+            "English":"king",
+            "Vietnam":"vua",
+            "Indonesian":"raja",
+            "Philippines":"hari",
+            "Chinese":"国王",
+            "Korean":"왕",
+            "Japanese":"おうさま",
+            "Myanmar":"ရွင္ဘုရင္"
+        },
+        {
+            "English":"kite",
+            "Vietnam":"cái diều",
+            "Indonesian":"layang-layang",
+            "Philippines":"saranggola",
+            "Chinese":"风筝",
+            "Korean":"연",
+            "Japanese":"たこ",
+            "Myanmar":"စြန္"
+        },
+        {
+            "English":"lamp",
+            "Vietnam":"cái đèn",
+            "Indonesian":"lampu",
+            "Philippines":"lampara",
+            "Chinese":"灯",
+            "Korean":"램프",
+            "Japanese":"らんぷ",
+            "Myanmar":"မီးအိမ္"
+        },
+        {
+            "English":"lime",
+            "Vietnam":"quả chanh",
+            "Indonesian":"jeruk nipis",
+            "Philippines":"apog",
+            "Chinese":"青柠",
+            "Korean":"라임",
+            "Japanese":"らいむ",
+            "Myanmar":"သံပရာသီး"
+        },
+        {
+            "English":"lion",
+            "Vietnam":"con sư tử",
+            "Indonesian":"singa",
+            "Philippines":"leon",
+            "Chinese":"狮子",
+            "Korean":"사자",
+            "Japanese":"らいおん",
+            "Myanmar":"ျခေသၤ့"
+        },
+        {
+            "English":"lock",
+            "Vietnam":"cái khóa",
+            "Indonesian":"gembok",
+            "Philippines":"kandado",
+            "Chinese":"锁",
+            "Korean":"자물쇠",
+            "Japanese":"ろっく",
+            "Myanmar":"ေသာ့ခေလာက္"
+        },
+        {
+            "English":"mango",
+            "Vietnam":"quả xoài",
+            "Indonesian":"mangga",
+            "Philippines":"mangga",
+            "Chinese":"芒果",
+            "Korean":"망고",
+            "Japanese":"まんごー",
+            "Myanmar":"သရက္သီး"
+        },
+        {
+            "English":"monkey",
+            "Vietnam":"con khỉ",
+            "Indonesian":"monyet",
+            "Philippines":"unggoy",
+            "Chinese":"猴",
+            "Korean":"원숭이",
+            "Japanese":"さる",
+            "Myanmar":"ေမ်ာက္"
+        },
+        {
+            "English":"necklace",
+            "Vietnam":"vòng cổ",
+            "Indonesian":"kalung",
+            "Philippines":"kwintas",
+            "Chinese":"项链",
+            "Korean":"목걸이",
+            "Japanese":"ねっくれす",
+            "Myanmar":"လည္ဆြဲ"
+        },
+        {
+            "English":"nest",
+            "Vietnam":"cái tổ",
+            "Indonesian":"sarang burung",
+            "Philippines":"pugad",
+            "Chinese":"巢",
+            "Korean":"둥지",
+            "Japanese":"す",
+            "Myanmar":"ငွက္သိုက္"
+        },
+        {
+            "English":"orange",
+            "Vietnam":"quả cam",
+            "Indonesian":"jeruk",
+            "Philippines":"kahel",
+            "Chinese":"橙子",
+            "Korean":"오렌지",
+            "Japanese":"みかん",
+            "Myanmar":"လိေမၼာ္သီး"
+        },
+        {
+            "English":"owl",
+            "Vietnam":"con cú",
+            "Indonesian":"burung hantu",
+            "Philippines":"kuwago",
+            "Chinese":"猫头鹰",
+            "Korean":"올빼미",
+            "Japanese":"ふくろう",
+            "Myanmar":"ဇီးကြက္"
+        },
+        {
+            "English":"pig",
+            "Vietnam":"con lợn",
+            "Indonesian":"babi",
+            "Philippines":"baboy",
+            "Chinese":"猪",
+            "Korean":"돼지",
+            "Japanese":"ぶた",
+            "Myanmar":"ဝက္"
+        },
+        {
+            "English":"pineapple",
+            "Vietnam":"quả dứa",
+            "Indonesian":"nanas",
+            "Philippines":"pinya",
+            "Chinese":"菠萝",
+            "Korean":"파인애플",
+            "Japanese":"ぱいなっぷる",
+            "Myanmar":"နာနတ္သီး"
+        },
+        {
+            "English":"quail",
+            "Vietnam":"con chim cút",
+            "Indonesian":"burung puyuh",
+            "Philippines":"pugo",
+            "Chinese":"鹌鹑",
+            "Korean":"메추라기",
+            "Japanese":"うずら",
+            "Myanmar":"ငံုးငွက္"
+        },
+        {
+            "English":"queen",
+            "Vietnam":"hoàng hậu",
+            "Indonesian":"ratu",
+            "Philippines":"reyna",
+            "Chinese":"女王",
+            "Korean":"왕비",
+            "Japanese":"じょおうさま",
+            "Myanmar":"ဘုရင္မ"
+        },
+        {
+            "English":"rabbit",
+            "Vietnam":"con thỏ",
+            "Indonesian":"kelinci",
+            "Philippines":"kuneho",
+            "Chinese":"兔子",
+            "Korean":"토끼",
+            "Japanese":"うさぎ",
+            "Myanmar":"ယုန္"
+        },
+        {
+            "English":"ruler",
+            "Vietnam":"thước kẻ",
+            "Indonesian":"penggaris",
+            "Philippines":"ruler",
+            "Chinese":"尺子",
+            "Korean":"자",
+            "Japanese":"ものさし",
+            "Myanmar":"ေပတံ"
+        },
+        {
+            "English":"snake",
+            "Vietnam":"con rắn",
+            "Indonesian":"ular",
+            "Philippines":"ahas",
+            "Chinese":"蛇",
+            "Korean":"뱀",
+            "Japanese":"へび",
+            "Myanmar":"ေျမြ"
+        },
+        {
+            "English":"sun",
+            "Vietnam":"mặt trời",
+            "Indonesian":"matahari",
+            "Philippines":"araw",
+            "Chinese":"太阳",
+            "Korean":"태양",
+            "Japanese":"たいよう",
+            "Myanmar":"ေန"
+        },
+        {
+            "English":"table",
+            "Vietnam":"cái bàn",
+            "Indonesian":"meja",
+            "Philippines":"mesa",
+            "Chinese":"桌子",
+            "Korean":"책상",
+            "Japanese":"てーぶる",
+            "Myanmar":"စားပြဲ"
+        },
+        {
+            "English":"tiger",
+            "Vietnam":"con hổ",
+            "Indonesian":"harimau",
+            "Philippines":"tigre",
+            "Chinese":"虎",
+            "Korean":"호랑이",
+            "Japanese":"とら",
+            "Myanmar":"က်ား\n"
+        },
+        {
+            "English":"umbrella",
+            "Vietnam":"cái ô",
+            "Indonesian":"payung",
+            "Philippines":"payong",
+            "Chinese":"雨伞",
+            "Korean":"우산",
+            "Japanese":"かさ",
+            "Myanmar":"ထီး"
+        },
+        {
+            "English":"uniform",
+            "Vietnam":"đồng phục",
+            "Indonesian":"seragam",
+            "Philippines":"uniporme",
+            "Chinese":"校服",
+            "Korean":" 유니폼",
+            "Japanese":"せいふく",
+            "Myanmar":"တူညီ၀တ္စုံ"
+        },
+        {
+            "English":"vase",
+            "Vietnam":"cái bình",
+            "Indonesian":"vas",
+            "Philippines":"plorera",
+            "Chinese":"花瓶",
+            "Korean":"꽃병",
+            "Japanese":"かびん",
+            "Myanmar":"ပန္းအိုး"
+        },
+        {
+            "English":"violin",
+            "Vietnam":"đàn vi ô lông",
+            "Indonesian":"biola",
+            "Philippines":"biyulin",
+            "Chinese":"小提琴",
+            "Korean":"바이올린",
+            "Japanese":"ばいおりん",
+            "Myanmar":"တေယာ"
+        },
+        {
+            "English":"watermelon",
+            "Vietnam":"quả dưa hấu",
+            "Indonesian":"semangka",
+            "Philippines":"pakwan",
+            "Chinese":"西瓜",
+            "Korean":"수박",
+            "Japanese":"すいか",
+            "Myanmar":"ဖရဲသီး"
+        },
+        {
+            "English":"whale",
+            "Vietnam":"con cá voi",
+            "Indonesian":"Mamalia Paus",
+            "Philippines":"balyena",
+            "Chinese":"鲸",
+            "Korean":"고래",
+            "Japanese":"くじら",
+            "Myanmar":"ေဝလငါး"
+        },
+        {
+            "English":"xylophone",
+            "Vietnam":"mộc cầm",
+            "Indonesian":"gambang",
+            "Philippines":"saylopon",
+            "Chinese":"木琴",
+            "Korean":"실로폰",
+            "Japanese":"もっきん",
+            "Myanmar":"ပတၱလား"
+        },
+        {
+            "English":"x-ray",
+            "Vietnam":"X quang",
+            "Indonesian":"x-ray",
+            "Philippines":"x-ray",
+            "Chinese":"X-射线",
+            "Korean":"엑스레이",
+            "Japanese":"れんとげんしゃしん",
+            "Myanmar":"ဓါတ္မွန္ပုံ"
+        },
+        {
+            "English":"yacht",
+            "Vietnam":"thuyền buồm",
+            "Indonesian":"Kapal Layar",
+            "Philippines":"yate",
+            "Chinese":"游艇",
+            "Korean":"요트",
+            "Japanese":"よっと",
+            "Myanmar":"ရြက္ေလွ"
+        },
+        {
+            "English":"yolk",
+            "Vietnam":"lòng đỏ",
+            "Indonesian":"kuning telur",
+            "Philippines":"pula ng itlog",
+            "Chinese":"蛋黄",
+            "Korean":"노른자 ",
+            "Japanese":"きみ",
+            "Myanmar":"(ဥ)အနွစ္"
+        },
+        {
+            "English":"zebra",
+            "Vietnam":"con ngựa vằn",
+            "Indonesian":"zebra",
+            "Philippines":"sebra",
+            "Chinese":"斑马",
+            "Korean":"얼룩말",
+            "Japanese":"しまうま",
+            "Myanmar":"ျမင္းက်ား"
+        },
+        {
+            "English":"zoo",
+            "Vietnam":"sở thú",
+            "Indonesian":"kebun binatang",
+            "Philippines":"su",
+            "Chinese":"动物园",
+            "Korean":"동물원",
+            "Japanese":"どうぶつえん",
+            "Myanmar":"တိရစာၦန္ဥယ်ာဥ္"
+        }
+    ]
+}

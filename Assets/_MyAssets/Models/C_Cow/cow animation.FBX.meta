@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 44a828ffdec656340b8c7cfb431f4654
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Horse
+    100004: HorseFrontRLegFrontHoof
+    100006: HorseFrontRLegHumerus
+    100008: HorseFrontRLegMetacarpus
+    100010: HorseFrontRLegPhalangesManus
+    100012: HorseFrontRLegPlatform
+    100014: HorseFrontRLegPlatformGizmo
+    100016: HorseFrontRLegRadius
+    100018: HorseFrontRLegScapula
+    100020: HorseJaw
+    100022: HorseLFemur
+    100024: HorseLFrontHoof
+    100026: HorseLHumerus
+    100028: HorseLLargeCannon
+    100030: HorseLMetacarpus
+    100032: HorseLPhalangesManus
+    100034: HorseLPhalanxPrima
+    100036: HorseLPlatform
+    100038: HorseLPlatform 1
+    100040: HorseLPlatformGizmo
+    100042: HorseLRadius
+    100044: HorseLRearHoof
+    100046: HorseLScapula
+    100048: HorseLTibia
+    100050: HorseNeck1
+    100052: HorseNeck2
+    100054: HorseNeck3
+    100056: HorseNeck4
+    100058: HorseNeck5
+    100060: HorseNeck6
+    100062: HorsePelvis
+    100064: HorseRFemur
+    100066: HorseRibcage
+    100068: HorseRLargeCannon
+    100070: HorseRPhalanxPrima
+    100072: HorseRPlatform
+    100074: HorseRRearHoof
+    100076: HorseRTibia
+    100078: HorseScull
+    100080: HorseSpine1
+    100082: HorseSpine2
+    100084: HorseSpine3
+    100086: HorseSpine4
+    100088: HorseSpine5
+    100090: HorseSpine6
+    100092: HorseTail1
+    100094: HorseTail2
+    100096: HorseTail3
+    100098: HorseTail4
+    100100: HorseTail5
+    100102: HorseTail6
+    100104: HorseTail7
+    100106: Object001
+    400000: //RootNode
+    400002: Horse
+    400004: HorseFrontRLegFrontHoof
+    400006: HorseFrontRLegHumerus
+    400008: HorseFrontRLegMetacarpus
+    400010: HorseFrontRLegPhalangesManus
+    400012: HorseFrontRLegPlatform
+    400014: HorseFrontRLegPlatformGizmo
+    400016: HorseFrontRLegRadius
+    400018: HorseFrontRLegScapula
+    400020: HorseJaw
+    400022: HorseLFemur
+    400024: HorseLFrontHoof
+    400026: HorseLHumerus
+    400028: HorseLLargeCannon
+    400030: HorseLMetacarpus
+    400032: HorseLPhalangesManus
+    400034: HorseLPhalanxPrima
+    400036: HorseLPlatform
+    400038: HorseLPlatform 1
+    400040: HorseLPlatformGizmo
+    400042: HorseLRadius
+    400044: HorseLRearHoof
+    400046: HorseLScapula
+    400048: HorseLTibia
+    400050: HorseNeck1
+    400052: HorseNeck2
+    400054: HorseNeck3
+    400056: HorseNeck4
+    400058: HorseNeck5
+    400060: HorseNeck6
+    400062: HorsePelvis
+    400064: HorseRFemur
+    400066: HorseRibcage
+    400068: HorseRLargeCannon
+    400070: HorseRPhalanxPrima
+    400072: HorseRPlatform
+    400074: HorseRRearHoof
+    400076: HorseRTibia
+    400078: HorseScull
+    400080: HorseSpine1
+    400082: HorseSpine2
+    400084: HorseSpine3
+    400086: HorseSpine4
+    400088: HorseSpine5
+    400090: HorseSpine6
+    400092: HorseTail1
+    400094: HorseTail2
+    400096: HorseTail3
+    400098: HorseTail4
+    400100: HorseTail5
+    400102: HorseTail6
+    400104: HorseTail7
+    400106: Object001
+    2100000: 'Material #26'
+    4300000: Object001
+    7400000: walk
+    7400002: sound
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: Object001
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 'Material #26'
+    second: {fileID: 2100000, guid: 88580e3877b0eff4694bd032e65b5a08, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: walk
+      takeName: walk
+      firstFrame: 0
+      lastFrame: 85
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: sound
+      takeName: sound
+      firstFrame: 86
+      lastFrame: 150
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

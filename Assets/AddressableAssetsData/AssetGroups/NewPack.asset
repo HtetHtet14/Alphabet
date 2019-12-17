@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: NewPack
+  m_EditorClassIdentifier: 
+  m_GroupName: NewPack
+  m_Data:
+    m_SerializedData: []
+  m_GUID: df31d2c2dfba77f45a90756c69ae42b9
+  m_SerializeEntries: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: db9239918d2c86e4bb2f727a355bdfb0, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 3d1cfeb69e15baf45b9d855d869dd7a5, type: 2}
+    - {fileID: 11400000, guid: 84e74c851a2715c48809c76432eeb79e, type: 2}
